@@ -10,15 +10,17 @@
     background-size:cover;
     height:auto;
     color:white;
-    padding-top: 210px;
+    padding-top: 180px;
    
 }
 .logo{
     text-align: center;
+  
 }
 .page1{
+    padding-top: 50px;
     text-align: center;
-    font-family:Open Sans;
+    font-family:"PT Sans" , Sans-serif;
 }
 .mouse-click{
     padding-top: 90px;
@@ -52,18 +54,30 @@
 }
 .we-do{
     padding-top: 50px;
-    padding-bottom: 30px;
+    padding-bottom: 100px;
 }
 .we-do h2{
     text-align: center;
     margin-bottom: 50px;
 }
-.row #image1{
-    padding-left: 0%;
+.card1 #des{
+    padding-top: 85px;
+    /* padding-left: -80px; */
 }
-.row #image2{
+.card2 #dev{
+    padding-left: 120px;
+}
+.card3 #pro{
+    padding-top: 100px;
+    padding-left:150px; 
+}
+.product img{
+    padding-right: 70px;
+}
+/* .row h5{
     text-align: center;
-}
-.row #image3{
-padding-right: 0%;
-}
+    padding-top: 90px;
+    padding-left: -20px;
+
+
+} */
