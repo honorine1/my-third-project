@@ -1,3 +1,22 @@
-.col-md-12{
-    background-image:
+.header{
+    background-image:url("../image/first\ background\ .jpg");
+    background-repeat:no-repeat;
+    background-position: relative;
+    background-size:cover;
+    height:auto;
+    color:white;
+    padding-top: 210px;
+}
+.logo{
+    text-align: center;
+}
+.page1{
+    text-align: center;
+    font-family:Open Sans;
+}
+.mouse-click{
+    padding-top: 90px;
+    text-align: center;
+    margin-top: 70px;
+    padding-bottom: 20px;
 }
