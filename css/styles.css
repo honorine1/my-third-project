@@ -60,18 +60,21 @@
 }
 .we-do h2{
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 .card1 #des{
     padding-top: 85px;
     /* padding-left: -80px; */
 }
+.product{
+    margin-bottom: -10px
+}
 .card2 #dev{
     padding-left: 120px;
 }
 .card3 #pro{
-    padding-top: 100px;
-    padding-left:150px; 
+    padding-top: 80px;
+    padding-left:130px; 
 }
 .product img{
     padding-right: 70px;
@@ -79,6 +82,10 @@
 .portfolio{
     padding-left: 100px;
     padding-right: 100px;
+}
+.portfolio h2{
+    text-align: center;
+    padding-bottom: 20px;
 }
 /* .row h5{
     text-align: center;
