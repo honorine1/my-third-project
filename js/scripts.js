@@ -51,7 +51,7 @@ $('#p1').fadeOut()});
 $('#p2').hide();
 $('#pw2').animate({opacity:1});
 $('#pw2').hover(function(){
-$(this).stop().animate({opacity:.4},200);
+$(this).stop().animate({opacity:.2},200);
 $('#p2').fadeIn();},
 function(){
     $(this).stop().animate({opacity:1},500); 
@@ -60,7 +60,7 @@ $('#p2').fadeOut()});
 $('#p3').hide();
 $('#pw3').animate({opacity:1});
 $('#pw3').hover(function(){
-$(this).stop().animate({opacity:.4},200);
+$(this).stop().animate({opacity:.2},200);
 $('#p3').fadeIn();},
 function(){
     $(this).stop().animate({opacity:1},500); 
@@ -69,7 +69,7 @@ $('#p3').fadeOut()});
 $('#p4').hide();
 $('#pw4').animate({opacity:1});
 $('#pw4').hover(function(){
-$(this).stop().animate({opacity:.4},200);
+$(this).stop().animate({opacity:.2},200);
 $('#p4').fadeIn();},
 function(){
     $(this).stop().animate({opacity:1},500); 
@@ -78,7 +78,7 @@ $('#p4').fadeOut()});
 $('#p5').hide();
 $('#pw5').animate({opacity:1});
 $('#pw5').hover(function(){
-$(this).stop().animate({opacity:.4},200);
+$(this).stop().animate({opacity:.2},200);
 $('#p5').fadeIn();},
 function(){
     $(this).stop().animate({opacity:1},500); 
@@ -87,7 +87,7 @@ $('#p5').fadeOut()});
 $('#p6').hide();
 $('#pw6').animate({opacity:1});
 $('#pw6').hover(function(){
-$(this).stop().animate({opacity:.4},200);
+$(this).stop().animate({opacity:.7},200);
 $('#p6').fadeIn();},
 function(){
     $(this).stop().animate({opacity:1},500); 
@@ -96,7 +96,7 @@ $('#p6').fadeOut()});
     $('#p7').hide();
 $('#pw7').animate({opacity:1});
 $('#pw7').hover(function(){
-$(this).stop().animate({opacity:.4},200);
+$(this).stop().animate({opacity:.2},200);
 $('#p7').fadeIn();},
 function(){
     $(this).stop().animate({opacity:1},500); 
@@ -105,7 +105,7 @@ $('#p7').fadeOut()});
 $('#p8').hide();
 $('#pw8').animate({opacity:1});
 $('#pw8').hover(function(){
-$(this).stop().animate({opacity:.4},200);
+$(this).stop().animate({opacity:.2},200);
 $('#p8').fadeIn();},
 function(){
     $(this).stop().animate({opacity:1},500); 
