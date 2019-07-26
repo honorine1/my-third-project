@@ -128,5 +128,5 @@ padding-bottom: 10px;
 /* javascript css */
 #desi,#develop,#prod{
     display:none;
-    
+   text-align: center; 
 }
