@@ -112,6 +112,11 @@
     padding-left: 580px;
     /* text-align: center; */
 }
+.icon{
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+}
 /* #name,#email,#message > placeholder{
     color:white;
 }
