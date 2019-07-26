@@ -62,9 +62,11 @@
     text-align: center;
     margin-bottom: 20px;
 }
+/* .we-do p{
+    text-align: center;
+} */
 .card1 #des{
     padding-top: 85px;
-    /* padding-left: -80px; */
 }
 .product{
     margin-bottom: -10px
@@ -87,9 +89,7 @@
     text-align: center;
     padding-bottom: 20px;
 }
-/* .row p{
-    text-align: center;
-} */
+
 .contact{
     background-image: url("../image/c_image.jpg");
     padding-top:50px;
@@ -110,25 +110,18 @@
 }
  #submit{
     padding-left: 580px;
-    /* text-align: center; */
+
 }
 .icon{
     padding-top: 50px;
     text-align: center;
     padding-bottom: 50px;
 }
-/* #name,#email,#message > placeholder{
-    color:white;
+.footer {
+text-align: center;
+font-family:"PT Sans" , Sans-serif;
+padding-bottom: 10px;
 }
-.form-contact > #message{
-    color:white;
-} */
-
-/* .form{
-    color:white;
-    border: white;
-    background-color: none;
-} */
 ::placeholder{
     color:white;
 }
