@@ -54,7 +54,7 @@
 }
 .we-do{
     padding-top: 50px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     padding-left: 100px;
     padding-right: 100px
 }
@@ -124,4 +124,8 @@ padding-bottom: 10px;
 }
 ::placeholder{
     color:white;
+}
+/* javascript css */
+#desi,#develop,#prod{
+    display:none;
 }

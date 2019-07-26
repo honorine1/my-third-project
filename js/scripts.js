@@ -1,0 +1,12 @@
+$(document).ready(function(){
+$('.design').click(function(){
+ $('.design').toggle();
+$('#desi').toggle();
+});
+});
+$(document).ready(function(){
+    $('#desi').click(function(){
+    $('#desi').toggle();
+    $('.design').toggle();
+    });
+    });
