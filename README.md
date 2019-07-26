@@ -11,7 +11,7 @@ This is Delani studio website! it includes aboutus parts talking about who we ar
 ### Set Instruction
 
 
- open up our webpage:https://github.com/honorine1/my-second-project
+ open up our webpage:https://honorine1.github.io/my-third-project/
 
 
 ### Technology used
