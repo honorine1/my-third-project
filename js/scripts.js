@@ -36,5 +36,36 @@ $(document).ready(function(){
                     $('.product').toggle();
                     $('#prod').toggle();
                     });
-                    });
-    
+                   });
+    // Portfolio scripts
+  //contact us
+  
+//   $(document).ready(function(){
+//     $('#form-co').submit(function(event){ 
+//         function contactUs(){
+//             var input=document.getElementById('#name').val();
+//             var names=$('#name').val();
+//             var email=$('#email').val();
+//             var mesage=$('#message').val();
+//             if(input!=empty){
+//                 alert(names+ ',We received your message.Thanks for contacting us!');
+//             }
+//             else{
+//                 alert('please enter your name!')
+//             }
+//         }  
+   
+   
+//     event.preventDefault();
+//   });
+// });
+$(document).ready(function(){
+    $('#form-co').submit(function(event){ 
+       
+            var names=$('#name').val();
+            var email=$('#email').val();
+            var mesage=$('#message').val();
+alert(names+','+ ''+ ' We received your message.Thanks for contacting us!');
+    event.preventDefault();
+  });
+});
